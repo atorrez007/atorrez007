@@ -14,8 +14,8 @@ Member of <a href="https://w3academy.io/">Web3Academy DAO</a>.
 
 
 ## Skills:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=funkee1&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkee1&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=atorrez007&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorrez007&layout=compact" />
 
 <br></br>
 <br></br>
