@@ -8,8 +8,6 @@ I'm interested in the movement web apps are making in today's world and I look f
 ## Learning:
 Currently attending <a href="www.parsity.io">Parsity</a>'s Online Coding Bootcamp for Full stack Software Development.
 <br><br> Learning Web3 development on <a href="https://www.buildspace.so">BuildSpace</a>. <br>
-Member of <a href="https://www.developerdao.com">Developer_DAO</a>. <br>
-Member of <a href="https://w3academy.io/">Web3Academy DAO</a>.
 
 
 
