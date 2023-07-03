@@ -10,7 +10,7 @@ Currently attending <a href="www.parsity.io">Parsity</a>'s Online Coding Bootcam
 <br><br> Learning Web3 development on <a href="https://www.buildspace.so">BuildSpace</a>. <br>
 
 ## Tech:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman,mongodb,html,css,tailwind,react,redux)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman,mongodb,html,css,tailwind,react,redux,swift)](#)
 <!-- 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
