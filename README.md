@@ -1,23 +1,34 @@
-# About me
-I'm a software developer based out of California.
+# 👋 Hi there! I'm Armando,
+###  Full-Stack Developer passionate about crafting seamless applications and creating meaningful user experiences.
 
-## Interests:
-I'm interested in the movement web apps are making in today's world and I look forward to building many great projects. Let's get to work!
-<br><br> I'm also interested in making 80's music and great espresso coffee.
-
-## Learning:
-Currently attending <a href="www.parsity.io">Parsity</a>'s Online Coding Bootcamp for Full stack Software Development.
-<br><br> Learning Web3 development on <a href="https://www.buildspace.so">BuildSpace</a>. <br>
-
-## Tech:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman,mongodb,html,css,tailwind,react,redux,swift)](#)
-<!-- 
-<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atorrez007&layout=compact&theme=dark" />
-<br></br><br></br><br></br><br></br><br></br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=atorrez007&show_icons=true&theme=radical" />
+### 🚀 About Me:
+- 🔭 Currently, I specialize in building Full-Stack applications using React.js, Redux, and jQuery, while implementing robust MVC architecture for consumer applications.
+- 🌱 I thrive on learning and exploring new technologies. I'm also learning SwiftUI to embark on building apps for the Apple Vision Pro. It's going to be AWESOME!
+- 💡 My latest project, RN-RightNow, showcases my skills in JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose.
+
+### 💼 Notable Projects:
+- **RN-RightNow:** As an independent project, I developed RN-RightNow, an app focused on transparency for travel nursing. Leveraging JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose, this application empowers travel nurses and other hospital staff to view working conditions at any hospital in the country before pursuing a nursing contract.
+
+### 🔧 Tech Stack:
+- **Front-end:** React.js, Redux, jQuery, HTML, CSS
+- **Back-end:** Node.js, Express, MongoDB, Mongoose
+- **API Design:** RESTful API with YAML documentation
+
+### 🤖 Find me on the Web:
+- **LinkedIn:** linkedin.com/in/atorrez007
+- **GitHub:** github.com/atorrez007
+- **Twitter:** @atorrez_007
+- **Email:** atorrez007@protonmail.com
+
+### 🏆 Open-Source Contributions:
+- I'm actively contributing to the open-source community, sharing my knowledge, and collaborating with other developers. Let's build something great together!
+
+### 📚 Fun Fact:
+- When I'm not crafting code, you can find me enjoying a good dose of comedy and sipping coffee like it's a superpower! ☕ 
+I'm also a big fan of writing sketch ideas and exploring the art of humor. Got a favorite comedy show or a hilarious meme? Share it with me, and let's have a good laugh together! 😄🎭
+
+#### 🙏 Thanks for checking out my GitHub profile. If you're interested in collaborating or have exciting projects in mind, feel free to reach out. Let's create impactful applications and make the web a better place!
+
