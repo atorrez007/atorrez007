@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Armando,
+# 👋 Hi there! I'm Armando.
 ###  Full-Stack Developer passionate about crafting seamless applications and creating meaningful user experiences.
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postman,mongodb,html,css,tailwind,react,redux,swift)](#)
@@ -18,10 +18,10 @@
 - **API Design:** RESTful API with YAML documentation
 
 ### 🤖 Find me on the Web:
-- **LinkedIn:** linkedin.com/in/atorrez007
-- **GitHub:** github.com/atorrez007
-- **Twitter:** @atorrez_007
-- **Email:** atorrez007@protonmail.com
+- **LinkedIn:** [linkedin.com/in/atorrez007](https://www.linkedin.com/in/atorrez007)
+- **GitHub:** [github.com/atorrez007](https://www.github.com/atorrez007)
+- **Twitter:** [twitter.com/atorrez_007](https://www.twitter.com/@atorrez_007)
+- **Email:** [atorrez007@protonmail.com](mailto:atorrez007@protonmail.com)
 
 ### 🏆 Open-Source Contributions:
 - I'm actively contributing to the open-source community, sharing my knowledge, and collaborating with other developers. Let's build something great together!
