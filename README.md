@@ -7,10 +7,10 @@
 ### 🚀 About Me:
 - 🔭 Currently, I specialize in building Full-Stack applications using React.js, Redux, and jQuery, while implementing robust MVC architecture for consumer applications.
 - 🌱 I thrive on learning and exploring new technologies. I'm also learning SwiftUI to embark on building apps for the Apple Vision Pro. It's going to be AWESOME!
-- 💡 My latest project, RN-RightNow, showcases my skills in JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose.
+- 💡 My latest project, RN-ReviewsNow, showcases my skills in JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose.
 
 ### 💼 Notable Projects:
-- **RN-RightNow:** As an independent project, I developed RN-RightNow, an app focused on transparency for travel nursing. Leveraging JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose, this application empowers travel nurses and other hospital staff to view working conditions at any hospital in the country before pursuing a nursing contract.
+- **RN-ReviewsNow:** As an independent project, I developed RN-ReviewsNow, an app focused on transparency for travel nursing. Leveraging JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose, this application empowers travel nurses and other hospital staff to view working conditions at any hospital in the country before pursuing a nursing contract.
 
 ### 🔧 Tech Stack:
 - **Front-end:** React.js, Redux, jQuery, HTML, CSS
