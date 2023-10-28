@@ -10,7 +10,7 @@
 - 💡 My latest project, RN-ReviewsNow, showcases my skills in JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose.
 
 ### 💼 Notable Projects:
-- **RN-ReviewsNow:** As an independent project, I developed RN-ReviewsNow, an app focused on transparency for travel nursing. Leveraging JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose, this application empowers travel nurses and other hospital staff to view working conditions at any hospital in the country before pursuing a nursing contract.
+- **[RN-ReviewsNow](https://github.com/atorrez007/rn-front-end):**  As an independent project, I developed RN-ReviewsNow, an app focused on transparency for travel nursing. Leveraging JavaScript, React.js, Redux, Node/Express, MongoDB, and Mongoose, this application empowers travel nurses and other hospital staff to view working conditions at any hospital in the country before pursuing a nursing contract.
 
 ### 🔧 Tech Stack:
 - **Front-end:** React.js, Redux, jQuery, HTML, CSS
