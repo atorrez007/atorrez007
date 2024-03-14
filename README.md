@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Armando.
 ###  Full-Stack Developer passionate about crafting seamless applications and creating meaningful user experiences.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,postman,mongodb,html,css,tailwind,swift)](#)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,postman,mongodb,html,css,tailwind,swift,python)](#)
 
 
 ### 🚀 About Me:
