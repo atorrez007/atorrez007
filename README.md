@@ -26,7 +26,6 @@
 🔗 &nbsp; Find me:
 
 - 🐦&nbsp;[twitter.com/atorrez_007](https://www.twitter.com/@atorrez_007)
-- 💼&nbsp;[linkedin.com/in/atorrez007](https://www.linkedin.com/in/atorrez007)
 - 📫&nbsp;[atorrez007@protonmail.com](mailto:atorrez007@protonmail.com)
   
 
